@@ -52,7 +52,7 @@ follow steps at https://github.com/elliefewings/DoMultiBarHeatmap
 ### clusterProfiler
 follow steps at https://bioconductor.org/packages/release/bioc/html/clusterProfiler.html
 
-# (For proficient users) conda environment for R packages
+## (For proficient users) conda environment for R packages
 You can downlod the conda environment with the necessary packages (and extra)- scSeurat_workshop23.yml
 
 # input files
