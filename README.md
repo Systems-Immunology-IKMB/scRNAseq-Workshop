@@ -29,15 +29,28 @@ ulimit::memory_limit(320000000000)
 Note: The limit exemplified is the limit of my personal laptop, you will have to tailor it to your own laptop.
 
 # R packages
-- Seurat
-- ggplot2
-- RColorBrewer
-- org.Hseg.db
-- clusterProfiler
-- SingleR
-- reshape2
-- tidyr
-- dplyr
+### Seurat
+follow steps at https://satijalab.org/seurat/articles/install
+### ggplot2
+follow steps at https://ggplot2.tidyverse.org/
+### RColorBrewer
+Download from CRAN
+### org.Hs.eg.db
+follow steps at https://bioconductor.org/packages/release/data/annotation/html/org.Hs.eg.db.html
+### SingleR
+follow steps at https://bioconductor.org/packages/release/bioc/html/SingleR.html
+### reshape2
+Download from CRAN
+### patchwork
+follow steps at https://gotellilab.github.io/GotelliLabMeetingHacks/NickGotelli/ggplotPatchwork.html
+### tidyr
+follow steps at https://tidyr.tidyverse.org
+### dplyr
+follow steps at https://www.r-project.org/nosvn/pandoc/dplyr.html
+### DoMultiBarHeatmap
+follow steps at https://github.com/elliefewings/DoMultiBarHeatmap
+### clusterProfiler
+follow steps at https://bioconductor.org/packages/release/bioc/html/clusterProfiler.html
 
 # input files
 Please download the files from https://we.tl/t-HpqnzduyOn
