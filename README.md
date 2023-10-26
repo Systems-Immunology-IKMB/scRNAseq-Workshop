@@ -58,3 +58,6 @@ You can downlod the conda environment with the necessary packages (and extra)- s
 # input files
 Please download the files for single cell transcriptomics analysis https://we.tl/t-RvV33etb2U
 Please Download the files for spatial transcriptomics analysis https://we.tl/t-FQHBqAFD6u 
+
+# intermediate files
+Pleaase download the files here https://we.tl/t-8MQjChoGaQ
